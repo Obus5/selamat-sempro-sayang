@@ -1,4 +1,4 @@
-# Selamat Sempro Sayang ❤️
+# Seminar Proposal Celebration Website
 A responsive single-page website created as a digital congratulatory gift for a university seminar proposal milestone.
 
 ## Features
